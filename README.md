@@ -16,6 +16,6 @@ Device connection
 ------------
 By default Linux users have no write or read access to USB-devices. Include your account in group `dialout`.
 
-	sudo adduser `my_user_login` dialout
+	sudo adduser my_user_login dialout
 
 Also you can write custom udev rules for your devices.
