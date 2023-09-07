@@ -1,0 +1,11 @@
+# Object files
+*.o
+*.elf
+*.asm
+
+# Executables
+*.hex
+
+# Folders
+./**/obj/
+./**/firmware/
