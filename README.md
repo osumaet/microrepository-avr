@@ -1,4 +1,4 @@
-# MICROREP-AVR
+# MICROREPOSITORY-AVR
 Set of projects for AVR. Each project completly independend from others.
 
 Content notes
