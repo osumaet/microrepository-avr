@@ -12,6 +12,10 @@ Install all required sofware:
 
 	sudo apt install make avr-gcc avr-libc binutils-avr avrdude
 
+ Remove `brltty` if installed.
+
+ 	sudo apt remove brltty
+
 Device connection
 ------------
 By default Linux users have no write or read access to USB-devices. Include your account in group `dialout`.
